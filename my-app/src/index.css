@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#round{
+    border-radius: 10px;
+}
+#Li ,link{
+    display: block;
+    background: black;
+}
